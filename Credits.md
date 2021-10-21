@@ -176,6 +176,8 @@ Satan
 [Tripplehelix](https://github.com/tripplehelix)
 [Veyrin](https://github.com/darkrevelations)
 [Sakura](https://github.com/lux-sakura)
+[cooldudes24](https://github.com/cooldudes24)
+
 
 ## Tips
 [Archibaald](https://github.com/Archibaald-dev)
