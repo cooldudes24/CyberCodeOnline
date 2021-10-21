@@ -10,4 +10,4 @@ In order to join another player's Co-op dungeon, the player's level needs to be 
 <br />
 
 ## Gangs
-Currently gangs are just a private area for a group of up to 32 friends to communicate but there are future plans for more to come of this.
+Currently gangs are just a private area for a group of up to 32 friends to communicate (and do Gang Dungeons) but there are future plans for more to come of this.
